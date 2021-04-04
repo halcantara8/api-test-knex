@@ -1,7 +1,7 @@
--Instalar o kNEX de forma global
+- Instalar o kNEX de forma global
     npm install knex -g
 
--Configurar o arquivo .env
+- Configurar o arquivo .env
     Mudar nome da base de dados
     Credencias do banco de dados
     Criar encode key para JWT
